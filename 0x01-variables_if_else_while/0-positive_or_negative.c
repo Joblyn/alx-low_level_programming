@@ -3,12 +3,7 @@
 #include <stdio.h>
 
 /**
- * main: Entry point (void)
- *
- * check number:
- * if number is 0, print is zero
- * if number is greater than 0, print is positive
- * if number is less than 0, print is negative
+ * main - Determine if a number is positve, negative or zero.
  *
  * Return: Always 0 (Success)
  */
